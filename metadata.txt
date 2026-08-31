@@ -1,0 +1,12 @@
+[general]
+name=AI GIS Copilot
+qgisMinimumVersion=3.16
+description=LLM-enabled QGIS copilot for GIS Q&A and Processing automation.
+version=0.11.0
+author=Satyabrata
+email=sssatyabrata@gmail.com
+about=Imagine ChatGPT inside QGIS. Ask GIS questions, or request operations and Processing runs in natural language.
+category=Vector
+icon=icon.png
+experimental=False
+deprecated=False
